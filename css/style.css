@@ -6,6 +6,8 @@ input ,select{outline: none}
 .relative{ position: relative;}
 .absolute{position: absolute;}
 
+
+
 .clear{ clear:both; height: 0px;  overflow:  hidden;}
 .p_100{ width: 100%;}
 .w_nr{ width: 1000px; margin: 0 auto;} 
@@ -13,7 +15,7 @@ input ,select{outline: none}
 .over{  overflow: hidden;}
 .block{display: block;}
 .bkcenter{background-position:center;}
-
+.bkyellow{ background: #fedc3d;}
 .error_red{ color: #B11818;}
 
 .blank10{  height: 10px; overflow: hidden; clear: both;}
